@@ -1,6 +1,5 @@
 # Responsive-Web-Layout-with-Media-Queries
 
-# Responsive Web Layout with Media Queries
 
 This repository contains HTML and CSS code for creating a responsive web layout using media queries. The layout adjusts its structure and styles based on the size of the viewport, providing an optimal viewing experience across different devices.
 
